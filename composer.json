@@ -1,13 +1,11 @@
 {
-    "name": "kscsdk/ksyun_sdk",
+    "name": "jinleileiking/ksyun_sdk",
     "description": "ksyun openapi offical sdk",
     "type": "library",
-    "homepage": "https://github.com/KscSDK/ksc-sdk-php",
+    "homepage": "https://github.com/jinleileiking/ksc-sdk-php",
     "keywords": [
         "openapi",
-        "ksyun",
-        "maigoxin",
-        "huangxin"
+        "ksyun"
     ],
     "license": "KSC",
     "authors": [
